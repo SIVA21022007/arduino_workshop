@@ -5,7 +5,7 @@ title: ATmega328P Microcontroller
 
 ## Atmega328p 
 
-![ATmega328P microcontroller chip with 28 pins arranged in two rows, labeled with pin numbers and function names, mounted on a white background](../image/atmega328p.jpeg)
+![ATmega328P_microcontroller](../image/atmega328p.jpeg)
 
 ---
 
