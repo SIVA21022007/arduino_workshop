@@ -3,6 +3,12 @@ sidebar_position: 2
 title: ATmega328P Microcontroller
 ---
 
+### Atmega328p 
+
+![ATmega328P microcontroller chip with 28 pins arranged in two rows, labeled with pin numbers and function names, mounted on a white background](../Arduino/image/atmega328p.jpeg)
+
+---
+
 # ATmega328P
 
 The ATmega328P is an 8-bit AVR microcontroller used in Arduino Uno.
