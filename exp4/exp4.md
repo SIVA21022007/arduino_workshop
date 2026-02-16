@@ -9,7 +9,7 @@ This project monitors air quality using MQ135 gas sensor.
 
 ---
 
-[GAS_Sensor](../image/smoke_senor.jpeg)
+![MQ135 gas sensor module featuring a circular sensing element on the control board. The board displays labeled components including output LED, power LED, voltage comparator IC labeled LM393, analog output pin, digital output pin, GND, VCC, and a sensitivity potentiometer for calibration. Blue circuit board with white silk-screen labels and gold-plated pins for connection to Arduino microcontroller](../image/pin_smoke.jpeg)
 
 ---
 
@@ -41,3 +41,8 @@ void loop() {
 
   delay(1000);
 }
+```
+
+## Connection
+
+![Arduino UNO microcontroller connected to MQ135 sensor module via color-coded wires. Red wire connects VCC, black wire connects GND, blue wire connects to analog input pin A0, and yellow wire connects digital output to pin 2. Diagram shows the complete circuit connection layout for air quality monitoring system](../image/smoke_con.png)

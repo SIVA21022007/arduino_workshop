@@ -9,17 +9,15 @@ This project displays keypad input on LCD screen using I2C communication.
 
 ---
 
-[LCD_I2C](../image/lcd.jpeg)
+![Arduino UNO microcontroller board connected via I2C wiring to a 16x2 LCD display module with green circuit board, showing data and clock signal lines](../image/lcd.jpeg)
 
-
-[I2C](../image/i2c.jpeg)
+![I2C protocol communication diagram illustrating serial data and clock line connections between microcontroller and LCD module](../image/i2c.jpeg)
 
 ---
 
-[keypad](../image/keypad_pin.jpeg)
+![4x4 membrane keypad matrix showing 16 button layout with row and column pin configuration labeled](../image/keypad_pin.jpeg)
 
-
-[Keypad_pin](../image/me_keyboard.jpeg)
+![4x4 keypad component with tactile button switches arranged in four rows and four columns](../image/me_keyboard.jpeg)
 
 ---
 
@@ -100,3 +98,17 @@ void loop() {
     }
   }
 }
+```
+
+## Connection
+
+![Arduino UNO microcontroller connected to 4x4 keypad matrix via ribbon cable with row pins 9, 8, 7, 6 and column pins 5, 4, 3, 2 labeled on breadboard setup](../image/key_con.png)
+
+---
+
+![Arduino UNO board with I2C LCD display connected showing complete wiring configuration for keypad input and data display project](../image/lcd_con.png)
+
+---
+![Arduino UNO microcontroller with 4x4 keypad and I2C LCD display fully connected on breadboard, showing all row and column wiring, power connections, and I2C data/clock lines integrated in complete project setup](../image/both_key_lcd.png)
+
+---

@@ -49,3 +49,12 @@ void loop() {
 
   delay(200);
 }
+
+##Connection
+![ir_sensor](../image/ir_connection.png) 
+
+---
+
+```markdown
+![IR and Servo motor circuit connections with component labels](../image/both_ir_servo.png)
+```

@@ -9,9 +9,9 @@ This project measures distance using an ultrasonic sensor.
 
 ---
 
-[Ultrasonic](../image/ultra.jpeg)
+![Ultrasonic](../image/ultra.jpeg)
  
-[Mechanism](../image/mech_ultra.jpeg)
+![Mechanism](../image/mech_ultra.jpeg)
 
 ---
 
